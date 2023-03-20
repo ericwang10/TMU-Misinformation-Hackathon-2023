@@ -35,13 +35,13 @@ Planned: addition of GPT-4 multimodal features to detect different mediums of mi
 
 **(c) how your solution can be deployed to fight misinformation online and by whom **
 
-Misinformation is rampant on Twitter and other social media discussion sites. This is especially true during discussions/arguments between users online. Misinformation can be intentional, such as when users deliberately spread false or misleading information for personal gain or to influence an audience. It can also be unintentional, when users share information without verifying its accuracy or rely on biased sources. False information can contribute to polarization and further divide people with different views, especially in the realm of US politics and the debate between political groups. 
-We would like to specifically address the use of misinformation/made up information in online discussion threads to support an internet argument.
+Misinformation is rampant on Twitter and other social media discussion sites. This is especially true during discussions/arguments between users online. Misinformation can be intentional, such as when users deliberately spread false or misleading information for personal gain or to influence an audience. It can also be unintentional, when users share information without verifying its accuracy or rely on biased sources. False information can contribute to polarization and further divide people with different views, especially in the realm of US politics and the debate between political groups. We wanted to specifically address the use of misinformation/made up information in online discussion threads to support an internet argument.
 
 The ease of use of Twitter, its wide audience, the potential to go viral, and a lack of repercussions encourages misinformation and a lack of consideration before posting. This is shown by how easy it is to write something random and post the tweet. 
 
-Thus, by offering a bot that has a similar level of convenience (one tag and post), it serves as a low effort way to combat misinformation without the need of spending lots of time/resources conducting research to disprove another individual's point. This is in contrast to the social media lab's OpenAI Demo App, which required navigating to the website and away from Twitter. 
+By offering a bot that has a similar level of convenience as regular tweeting (simply tag and post), we provide users with an effortless way to combat misinformation without needing to spend significant time or resources conducting research to disprove another individual's point or news article. Our goal was to make this solution a direct improvement to the social media lab's OpenAI Demo App, which required users to navigate away from Twitter and onto a separate website.
 
+Our Twitter fact-checking bot aims to disrupt the cycle of misinformation by offering users a convenient method for verifying the accuracy of claims in real-time. By simplifying the process of identifying and debunking misinformation, we can foster a more informed and responsible approach to online discussions. 
 
 **(d) whether and how you evaluated its effectiveness.**
 
