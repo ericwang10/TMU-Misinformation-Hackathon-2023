@@ -1,4 +1,4 @@
-# UofT-Misinformation-Hackathon-2023
+# TMU-Misinformation-Hackathon-2023
 Eric Wang and Eric Long 
 
 How to Install:
